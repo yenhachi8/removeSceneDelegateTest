@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         label.layer.borderWidth = 1
 //        print("viewDidloadEND")
     }
+    @IBAction func button(_: UIButton){
+        print("press button")
+    }
 
 
 }
