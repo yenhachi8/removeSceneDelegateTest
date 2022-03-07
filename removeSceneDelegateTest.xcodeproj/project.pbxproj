@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CCA4D8E727D5B7C800B4B9F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA4D8E627D5B7C800B4B9F8 /* AppDelegate.swift */; };
-		CCA4D8E927D5B7C800B4B9F8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA4D8E827D5B7C800B4B9F8 /* SceneDelegate.swift */; };
 		CCA4D8EB27D5B7C800B4B9F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA4D8EA27D5B7C800B4B9F8 /* ViewController.swift */; };
 		CCA4D8EE27D5B7C800B4B9F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCA4D8EC27D5B7C800B4B9F8 /* Main.storyboard */; };
 		CCA4D8F027D5B7CC00B4B9F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCA4D8EF27D5B7CC00B4B9F8 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		CCA4D8E327D5B7C800B4B9F8 /* removeSceneDelegateTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = removeSceneDelegateTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCA4D8E627D5B7C800B4B9F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CCA4D8E827D5B7C800B4B9F8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CCA4D8EA27D5B7C800B4B9F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CCA4D8ED27D5B7C800B4B9F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CCA4D8EF27D5B7CC00B4B9F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				CCA4D8E627D5B7C800B4B9F8 /* AppDelegate.swift */,
-				CCA4D8E827D5B7C800B4B9F8 /* SceneDelegate.swift */,
 				CCA4D8EA27D5B7C800B4B9F8 /* ViewController.swift */,
 				CCA4D8EC27D5B7C800B4B9F8 /* Main.storyboard */,
 				CCA4D8EF27D5B7CC00B4B9F8 /* Assets.xcassets */,
@@ -140,7 +137,6 @@
 			files = (
 				CCA4D8EB27D5B7C800B4B9F8 /* ViewController.swift in Sources */,
 				CCA4D8E727D5B7C800B4B9F8 /* AppDelegate.swift in Sources */,
-				CCA4D8E927D5B7C800B4B9F8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
